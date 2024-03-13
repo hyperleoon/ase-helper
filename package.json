@@ -1,0 +1,14 @@
+{
+  "name": "ase-helper",
+  "version": "1.0.0",
+  "description": "A simple AES encryption and decryption helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hyperleoon",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0"
+  }
+}
